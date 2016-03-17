@@ -1,0 +1,23 @@
+nav  a.navbar-brand {
+    font-style: normal !important;
+    font-size: 30px;
+    color: #6d81d2 !important;
+}
+nav  a.navbar-brand:hover {
+    color: #f5fbfc !important;
+}
+.container .page-header {
+    margin-top:150px;
+}
+
+.container .row .bulls-team img{
+    margin-bottom:20px;
+    margin-top:20px;
+
+}
+.container .row .bulls-team h1{
+    margin-bottom:50px;
+}
+.container .row .bulls-team img:hover {
+    opacity: 0.5;
+}
